@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Conflict-hot-fix");
         System.out.println("Conflict-master");
         System.out.println("Push-test-ssh");
+        System.out.println("Pull-test-ssh");
     }
 }
