@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Git-test-demo");
         System.out.println("Chase undetected");
         System.out.println("Try another");
+        System.out.println("Emergency hot fix");
     }
 }
